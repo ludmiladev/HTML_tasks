@@ -1,0 +1,11 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+out/
+
+# Node.js
+node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
